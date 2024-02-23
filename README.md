@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naveed</h1>
 <h3 align="center">A passionate Spatial Data Scientist in GIS & Remote Sensing From Pakistan</h3>
 
-
-
 - 🔭 I’m currently working on **working ML, Data Science in the field of Remote Sensing and Urban Analytics, deep learning**
 
 - 🌱 I’m currently learning **Artificial Intelligence,GeoAi, Computer Vision**
